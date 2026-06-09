@@ -8,7 +8,7 @@ adding intro here
 
 # maintainer : additional onboarding information to be accepted by the intern
 
-# intern's response: information accepted 
+# intern says: information accepted 
 
 # maintainer: give final confirmation 
 
